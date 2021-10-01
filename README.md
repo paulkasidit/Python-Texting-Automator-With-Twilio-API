@@ -1,6 +1,14 @@
 # Python-Texting-Automator-With-Twilio-API
 A program that automates texting at regular intervals via the Twilio API. 
-You can edit which two times in the day you want the message to be sent. 
+- You can specify which quotes to be sent in the text me in "automate_texting.py". 
+- You can specify which two times in the day you want the message to be sent in "automate_texting.py". 
+- Third "test field" in "automate_texting.py" can be used to set the message send time to the current time so the message can be sent immediately. 
+
+Installation
+--------------
+- In the program directory run the folowing Terminal Command:
+
+pip install -r requirements.txt
 
 Setup
 --------
@@ -13,12 +21,6 @@ Setup
 - "twilio token" (your twilio account token, which can be found in the account settings.) *SECRET 
 
 3. Setup complete
-
-Installation
---------------
-- In the program directory run the folowing Terminal Command:
-
-pip install -r requirements.tx
 
 Running the program
 --------------------
