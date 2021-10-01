@@ -6,15 +6,15 @@ from twilio_credentials import cellphone, twilio_account, twilio_token, twilio_n
 GOOD_MORNING_QUOTES = [
     "Good Morning Love! Hope you Have An Amazing Day <3",
     "Good Morning Sleepyhead.",
-    "Get yo ass up",
+    "Wake up",
     "Love you. Good morning"
 ]
 
 GOOD_EVENING_QUOTES = [
     "Good Evening Love",
     "Sleep tight my love",
-    "Have a good night my dear",
-    "Good night. Love you"
+    "Have a good night",
+    "Good night. Love you!"
 ]
 
 def send_message(quotes_list=GOOD_MORNING_QUOTES):
