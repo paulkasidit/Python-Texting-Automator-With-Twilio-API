@@ -1,5 +1,5 @@
 # Python-Texting-Automator-With-Twilio-API
-A program that automates texting at regular intervals via the Twilio API.
+A program that automates texting at regular intervals via the Twilio API. You have a selection of times availble in eith morning or evening. 
 
 Setup
 --------
